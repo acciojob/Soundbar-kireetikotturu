@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.bg-container{
+	background-color: #A164DF;
+	padding: 80px 10px;
+	display: flex;
+	justify-content: space-between;
+}
+.stop{
+	height: 34px;
+	width: 90px;
+	background-color: #663399;
+	border: none;
+	border-radius: 4px;
+	color: white;
+}
+.btn{
+	height: 34px;
+	width: 90px;
+	background-color: #663399;
+	border: none;
+	border-radius: 4px;
+	color: white;
+}
