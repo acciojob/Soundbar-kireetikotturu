@@ -1,5 +1,6 @@
 //your JS code here. If required.
 let musicButtons = document.querySelectorAll(".btn")
+let audioEle = document.getElementById("audio-element")
 
 musicButtons.forEach((item)=>{
   item.addEventListener("click", ()=>{
